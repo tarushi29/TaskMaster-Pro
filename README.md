@@ -5,8 +5,8 @@
 
 You can use the following sample login credentials to access the application:
 
-- **Email:** - arpit123@gmail.com
-- **Password:** - arpit123
+- **Email:** - tarushifarainjiya@gmail.com
+- **Password:** - tarushi123
 
 # Taskmaster-Pro Web App
 
@@ -137,7 +137,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any inquiries or support, please contact us at arpitgupta0761@gmail.com.
+For any inquiries or support, please contact us at tarushifarainjiya@gmail.com.
 
 ---
 
